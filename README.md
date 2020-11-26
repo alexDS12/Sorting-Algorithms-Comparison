@@ -9,4 +9,4 @@ Algorithms I've found interesting to compare so far:
 * Combsort;
 * Cocktailsort;
 
-*PS: All arrays are being randomly generated, so I'm not comparing their worst-case.
+*PS: All arrays are being randomly generated and then sorted backwards, so their worst-case are compared.
